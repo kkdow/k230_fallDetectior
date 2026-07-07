@@ -14,7 +14,8 @@
 
 ## 📸 演示效果
 
-<video src="./output.mp4" controls width="600"></video>
+
+👉 [点击观看演示视频（MP4 格式）](./output.mp4)
 
 ---
 
