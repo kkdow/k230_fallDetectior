@@ -1,0 +1,3 @@
+config APP_ENABLE_ai
+    bool "Enable Applications ai"
+    default n
